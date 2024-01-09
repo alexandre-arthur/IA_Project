@@ -4,10 +4,10 @@ import os
 import logging
 
 # Constantes
-VIDEO_PATH = "video/wok2.mp4"
-SEGMENT_DURATION = 45
+VIDEO_PATH = "video/wok.mp4"
+SEGMENT_DURATION = 60
 AUDIO_FOLDER = "segments_audio"
-GLOBAL_TEXT_FILE = 'global_text.txt'
+GLOBAL_TEXT_FILE = 'global_text_wor.txt'
 
 logging.basicConfig(level=logging.INFO)
 
