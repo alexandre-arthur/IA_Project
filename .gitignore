@@ -1,3 +1,4 @@
 *.txt
 /video
 /segments_audio
+output/*
